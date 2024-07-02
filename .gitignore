@@ -1,0 +1,4 @@
+client_certs/*
+mosquitto/config/certs/*
+mosquitto/data/*
+mosquitto/log/*
